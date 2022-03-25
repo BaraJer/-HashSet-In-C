@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/HashSet.c
+stdlib.h
+-
+Node.h
+/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/Node.h
+HashSet.h
+/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/HashSet.h
+
+/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/HashSet.h
+stdlib.h
+-
+Node.h
+/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/Node.h
+
+/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/Node.h
+stdlib.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g -Wl,--enable-auto-import CMakeFiles/ex4_gfat.dir/HashSet.c.o CMakeFiles/ex4_gfat.dir/Node.c.o CMakeFiles/ex4_gfat.dir/test_runner.c.o CMakeFiles/ex4_gfat.dir/tests.c.o -o ex4_gfat.exe -Wl,--out-implib,libex4_gfat.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

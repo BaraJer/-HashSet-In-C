@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ex4_gfat"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex4_gfat">
+				<Option output="/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/ex4_gfat.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/."/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex4_gfat"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ex4_gfat/fast">
+				<Option output="/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/ex4_gfat.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/."/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/10/../../../../lib/../include/w32api"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/Makefile&quot;  VERBOSE=1 ex4_gfat/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j12 -f &quot;/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/Hash.h">
+			<Option target="ex4_gfat"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/HashSet.c">
+			<Option target="ex4_gfat"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/HashSet.h">
+			<Option target="ex4_gfat"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/Node.c">
+			<Option target="ex4_gfat"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/Node.h">
+			<Option target="ex4_gfat"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/Utils.h">
+			<Option target="ex4_gfat"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/test_runner.c">
+			<Option target="ex4_gfat"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/test_runner.h">
+			<Option target="ex4_gfat"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/tests.c">
+			<Option target="ex4_gfat"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

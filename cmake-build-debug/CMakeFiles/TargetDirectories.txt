@@ -1,0 +1,3 @@
+/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/bara1/CLionProjects/ex4-gfat/cmake-build-debug/CMakeFiles/ex4_gfat.dir
